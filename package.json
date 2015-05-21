@@ -1,0 +1,16 @@
+{
+  "name": "BabelJSDemo",
+  "version": "0.0.1",
+  "description": "Babel demo",
+  "scripts": {
+    "make": "Babel my-script-dev.js --out-file my-script-build.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Sandeep",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^5.4.5"
+  }
+}
